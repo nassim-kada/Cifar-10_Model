@@ -50,9 +50,11 @@ pip install -r requirements.txt
 ## Usage
 
 ### 1. Build the model : 
-Run the build file : 
+Run the build:
 open it and run every cell sequentially 
-after running the build file 
+OR you can download the model directly from : 
+    [Drive](https://drive.google.com/file/d/1mcfcRB_Cs8tj4PL9c9BUBnSGHzLHMUSe/view?usp=drive_link) 
+ 
 
 You can Run the accuracy test script to evaluate the model performance:
 
